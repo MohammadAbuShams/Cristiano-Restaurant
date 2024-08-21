@@ -1,4 +1,4 @@
-# Restaurant-App-HTML-CSS-JS
+# Restaurant-App in HTML&CSS&JS
 
 
 # Cristiano Restaurant
