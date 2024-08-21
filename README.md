@@ -1,9 +1,9 @@
 # Restaurant-App-HTML-CSS-JS
 
 
-# Aurora Restaurant
+# Cristiano Restaurant
 
-Welcome to the GitHub repository for the Aurora Restaurant website! This project is designed to showcase a fully functional restaurant website built using HTML, CSS, JavaScript, and responsive web design techniques.
+Welcome to the GitHub repository for the Cristiano Restaurant website! This project is designed to showcase a fully functional restaurant website built using HTML, CSS, JavaScript, and responsive web design techniques.
 
 ## Features
 
