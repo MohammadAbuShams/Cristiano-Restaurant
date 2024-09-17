@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for the Cristiano Restaurant website! 
 
 ## Live Demo
 
-Check out the live demo of the website [here](https://mohammadabushams.github.io/Restaurant-App-HTML-CSS-JS/)
+Check out the live demo of the website [here](https://mohammadabushams.github.io/Cristiano-Restaurant/)
 
 ## Features
 
